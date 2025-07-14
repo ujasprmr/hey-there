@@ -4,7 +4,7 @@
 
 import base64
 import os
-streamlit
+
 google-generativeai
 
 def generate():
