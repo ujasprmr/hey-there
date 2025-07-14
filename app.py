@@ -5,7 +5,7 @@
 import base64
 import os
 
-import google.generativeai as genai
+"import google.generativeai as genai"
 
 def generate():
     client = genai.Client(
